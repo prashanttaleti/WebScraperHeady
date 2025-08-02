@@ -100,6 +100,6 @@ console.log(text);
   if (lowest.price > 5000) {
     throw new Error('Test Break: Price above threshold');
   }
-
+ 
 
 });
